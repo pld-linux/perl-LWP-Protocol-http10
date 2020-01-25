@@ -3,7 +3,6 @@
 #
 %define		pdir	LWP
 %define		pnam	Protocol-http10
-%include	/usr/lib/rpm/macros.perl
 Summary:	LWP::Protocol::http10 - Legacy HTTP/1.0 support for LWP
 #Summary(pl.UTF-8):	
 Name:		perl-LWP-Protocol-http10
